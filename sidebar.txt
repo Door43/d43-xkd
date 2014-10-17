@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xkd:home|Door43 (xkd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xkd|d43-xkd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xkd/archive/master.zip|d43-xkd.zip]]
+
+**Recent Changes**
+{{changes>ns = xkd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xkd|Ethnologue data]]
+
